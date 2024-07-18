@@ -230,8 +230,8 @@ img {
 
 .home__img {
   position: absolute;
-  right: -95;
-  bottom: -120;
+  right: -95px;
+  bottom: -120px;
   width: 480px;
 }
 
